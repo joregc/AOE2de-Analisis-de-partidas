@@ -6,4 +6,5 @@ en tiempo real (RTS por sus siglas en inglés).
 
 Los datos fueron obtenidos de https://www.kaggle.com/datasets/slappdun/35000-age-of-empires-2-1v1-ranked-random-matches, que a su vez, estos datos de Kaggle fueron obtenidos de la API de www.aoe2.net.
 
+![alt text](https://github.com/joregc/AOE2de-Analisis-de-partidas/blob/main/res/AOE2-DE.jpg?raw=true)
 
